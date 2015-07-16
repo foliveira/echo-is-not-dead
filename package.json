@@ -1,0 +1,12 @@
+{
+  "name": "echo-is-not-dead",
+  "version": "1.0.0",
+  "description": "Echo server running on TCP Port 7. Based on RFC 862",
+  "main": "index.js",
+  "repository": "https://github.com/foliveira/echo-is-not-dead",
+  "author": {
+    "name": "Fábio Oliveira",
+    "url": "http://blog.foliveira.me"
+  },
+  "license": "ISC"
+}
