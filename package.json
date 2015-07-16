@@ -9,6 +9,6 @@
   },
   "license": "ISC",
   "bin": {
-    "echo-is-not-dead": "./bin/echo.js",
+    "echo-is-not-dead": "./bin/echo.js"
   }
 }
