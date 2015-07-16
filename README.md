@@ -6,7 +6,9 @@ This server runs on port 7 and echoes whatever a client sends to it. It is an im
 
 ##Install
 
+```sh
 npm install -g echo-is-not-dead
+```
 
 ##Run
 
